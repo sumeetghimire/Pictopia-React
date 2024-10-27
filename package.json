@@ -1,8 +1,8 @@
 {
   "name": "pictopia-react",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Simple Image Library for React",
-  "main": "dist/pictopia.js",
+  "main": "dist/Pictopia.js",
   "scripts": {
     "build": "webpack",
     "prepare": "npm run build",
